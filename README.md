@@ -6,6 +6,7 @@ The concept map can have multiple purposes:
 * Serve as a refresher
 * Find related topics of interest
 * Guide newcomers in the domain by exploring topics by their relatedness
+* Get an idea of the size of the domain
 
 ## Contributing
 
