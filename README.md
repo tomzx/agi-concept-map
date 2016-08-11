@@ -1,6 +1,6 @@
 # AGI Concept Map
 
-The **AGI Concept Map** is my attempt at reconstructing all the internal knowledge I've acquired about artificial intelligence over the years.
+The **AGI Concept Map** is my attempt at reconstructing all the internal knowledge I've acquired about artificial general intelligence over the years.
 
 The concept map can have multiple purposes:
 * Serve as a refresher
